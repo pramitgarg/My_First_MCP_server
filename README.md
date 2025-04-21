@@ -1,2 +1,2 @@
 # My_First_MCP_server
-Building MCP server which helps related to leave management tasks. 
+Building MCP server which help HR with leave management. 
